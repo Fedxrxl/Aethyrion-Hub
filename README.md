@@ -66,6 +66,7 @@ All rights, title, and interest in this software remain the exclusive property o
     <li><strong>Aethyrion Staff</strong></li>
     <li><strong>Aethyrion Development Team</strong></li>
     <li><strong>Fedxrxl</strong></li>
+    <li><strong>SwattedOVH</strong></li>
 </ul>
 
 <p>
