@@ -9,7 +9,7 @@
 <p align="center">Best free open sourced BOOGA BOOGA script coming soon</p>
 <p align="center">Christmas Day! May be the Official drop day of Aethryon Hub</p>
 
-<p align="center">loadstring(game:HttpGet("https://raw.githubusercontent.com/Fedxrxl/Booga-Booga/refs/heads/main/Aethyrion%20Hub.lua"))() -- Not released</p>
+<p align="center">loadstring(game:HttpGet("https://raw.githubusercontent.com/Fedxrxl/Aethyrion-Hub/refs/heads/main/Aethyrion%20Hub.lua"))() -- Not released</p>
 
 <h1 align="center"><b>Quick look at Aethyrion Hub</b></b></h1>
 <p align="center">
