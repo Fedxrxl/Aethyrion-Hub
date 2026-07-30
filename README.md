@@ -1,3 +1,4 @@
+<p align="center"><img src="https://media.discordapp.net/attachments/1532324188805795890/1532324253662187621/742c9c8413da59498348971decee3a92_1.webp?ex=6a6c6fab&is=6a6b1e2b&hm=4b65c9e10a3f178f496886733ee82a576a304e39a6c7ceda16bf78968bbf1e48&=&format=webp&width=200&height=200" width="200" alt="Preview"></p>
 # <h1 align="center">BOOGA BOOGA REBORN</h1>
 
 <p align="center">If Aethyrion becomes Detected or gets you Banned in any sort of way, our Team is not at Fault.</p>
